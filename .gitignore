@@ -1,0 +1,11 @@
+virtualEnv/
+virtualEnv/*
+/virtualEnv/*
+backend/virtualEnv/
+backend/virtualEnv/*
+
+__pycache__/
+__pycache__/*
+/__pycache__/*
+backend/__pycache__/
+backend/__pycache__/*
